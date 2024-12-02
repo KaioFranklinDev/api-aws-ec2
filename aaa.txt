@@ -1,0 +1,48 @@
+{
+    users:[ 
+        {
+            id:"uuid-12432356134623623"
+            name:"kaio",
+            email:"kaio@email.com",
+            telefone:"1234",
+            stores:[
+                cavaiarSore,
+                PneuBack,
+                LuvaStore
+            ]
+        }
+    ],
+    stores:[
+        {
+            name: "cavaiarSore",
+            address:  "av 123",
+            adms: [
+                uuid-12432356134623623,
+                uuid-63463431242134124
+            ]
+        },
+        {
+            name: "PneuBack",
+            address:  "av fominha 412",
+            adms: [
+                uuid-64578321132423423
+            ]
+        },
+        {
+            name: "LuvaStore",
+            address:  "av de pedreiro 777",
+            adms: [
+                uuid-12432356134623623,
+                uuid-63463431242134124
+            ]
+        },
+        {
+            name: "docinho",
+            address:  "av açucar 431",
+            adms: [
+                uuid-12432356134623623,
+                uuid-63463431242134124
+            ]
+        }
+    ]
+}
